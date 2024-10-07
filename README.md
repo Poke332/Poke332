@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Web Development
 - 🌱 I’m currently learning Javascript and React Framework
 - 💞️ I’m looking to collaborate on Programming project
-- 📫 How to reach me: message me on discord @pokey_boi
+- 📫 How to reach me: contact my email listed on my profile
 - 😄 Pronouns: He/Him
 
 <!---
